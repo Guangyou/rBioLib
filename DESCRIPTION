@@ -1,11 +1,11 @@
-Package: rGuangyou
+Package: rBioLib
 Type: Package
-Title: Daily used methods.
+Title: Daily used methods in bioinformatics study.
 Version: 0.1
 Date: 2015-11-26
 Author: Guangyou duan
 Maintainer: Guangyou Duan <bioinfor.gyduan@gmail.com>
-Description: It includes the functions used everyday.
+Description: It includes the functions used everyday in bioinformatics study.
 License: MIT
 LazyData: TRUE
 RoxygenNote: 5.0.1
