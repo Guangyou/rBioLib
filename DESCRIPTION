@@ -1,0 +1,11 @@
+Package: rGuangyou
+Type: Package
+Title: Daily used methods.
+Version: 0.1
+Date: 2015-11-26
+Author: Guangyou duan
+Maintainer: Guangyou Duan <bioinfor.gyduan@gmail.com>
+Description: It includes the functions used everyday.
+License: MIT
+LazyData: TRUE
+RoxygenNote: 5.0.1
